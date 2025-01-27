@@ -1,5 +1,5 @@
 # Hi there 👋 I am Luca Donadello
-## I recently graduated in Computer Science from The University of Texas at Dallas!
+## I recently graduated and master student in Computer Science from The University of Texas at Dallas!
 
 - 👨‍💻 Programming Languages: Java, Python, JavaScript, TypeScript, C, C#, C++, SQL, HTML, CSS
 - 💻 Frameworks: ASP.NET, React.js, Node.js, Spring, REST API, Django, Flask, PyTorch, ASP.NET, JavaFX, MVC, MVVM
