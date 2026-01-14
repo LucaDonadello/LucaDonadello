@@ -1,8 +1,10 @@
 # Hi there 👋 I am Luca Donadello
-## I am Master's student in Computer Science with hands-on experience in full-stack development, specializing in scalable web applications. I am proficient in modern web technologies, cloud computing, and backend development, with a proven ability to deliver secure and efficient solutions. I am interested in building software and eager to contribute to software teams.
+I’m a Software Developer at Paycom with a B.S. in Computer Science from UT Dallas. I focus on building scalable backend systems, optimizing databases, and developing production-ready applications. At Paycom, I work on mission-critical payroll reporting infrastructure, designing object-oriented PHP systems, optimizing high-volume SQL queries, and improving reliability and compliance for thousands of businesses. I also enjoy building end-to-end projects that blend backend engineering with AI and emerging technologies. Notable work includes AskTube, an AI-powered web application that uses a Retrieval-Augmented Generation (RAG) pipeline for question answering and summarization over YouTube videos, and VR simulations built with Unity and C#.
 
+## Current interests:
+Backend engineering · Distributed systems · Cloud infrastructure · Applied AI · Developer tooling
 
-
+## Tech I work with:
 - 👨‍💻 Programming Languages: Java, Python, JavaScript, TypeScript, C, C#, C++, SQL, HTML, CSS
 - 💻 Frameworks: ASP.NET, React.js, Node.js, Spring, REST API, Django, Flask, PyTorch, ASP.NET, JavaFX, MVC, MVVM
 - ☁️ Cloud: AWS, Microsoft Azure, Google
